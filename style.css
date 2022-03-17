@@ -1,0 +1,60 @@
+#title
+{
+  font-size; 6.0cm;
+margin-bottom: 0;
+  letter-spacing: 2px;
+  word-spacing; 5px;
+}
+#title {
+  font-size: 80px;
+  margin-bottom: 25px
+}
+ 
+
+
+
+
+#img-caption {
+  width: 400px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+#img-caption
+{
+  font-style: italic;
+  font-size: 0.5cm;
+letter-spacing: 1.0px;
+  word-spacing: 1.5px;
+margin: auto;
+}
+
+
+
+
+#quote-box
+{
+  background: #000;
+    padding: 20px 60px 20px 60px;
+  padding-top:20px;
+  margin-bottom: 40px;
+  magin: opx;
+  font-style: italic; 
+  font-weight: bolder;
+  color: pink;
+}
+
+#tribute-link
+{
+  color: white;
+  font-weight: bolder;
+}
+
+
+
